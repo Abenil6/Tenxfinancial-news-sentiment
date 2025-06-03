@@ -5,6 +5,6 @@ This repo contains code and notebooks for analyzing financial news headlines and
 
 - `notebooks/EDA.ipynb`: Exploratory Data Analysis of news headlines dataset.
 - `scripts/sentiment_analysis.py`: Partial stock analysis using technical indicators.
-- Data is in `data/news.csv`.
+- Data is in `data/.
 
 Technologies: Python, Jupyter, TA-Lib, yfinance, matplotlib.
